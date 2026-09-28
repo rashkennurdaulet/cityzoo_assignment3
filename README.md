@@ -17,4 +17,4 @@ This project builds on the City Zoo site from Assignment #2. Its original green 
 | 9. Responsive Bootstrap form | `contact.html` |
 | 10. Semantic HTML and accessibility | All pages: landmarks, skip links, labelled controls, image alt text, focus styles, and contrast |
 
-https://github.com/rashkennurdaulet/cityzoo_assignment3.git
+https://rashkennurdaulet.github.io/cityzoo_assignment3/
